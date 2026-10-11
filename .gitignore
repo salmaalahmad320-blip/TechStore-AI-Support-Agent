@@ -4,4 +4,5 @@ venv/
 __pycache__/
 .faiss_index/
 data/uploads/
+uploaded_company.pdf
 *.py[cod]
