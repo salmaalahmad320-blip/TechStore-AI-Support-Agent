@@ -1,0 +1,7 @@
+venv/
+.venv/
+.env
+__pycache__/
+.faiss_index/
+data/uploads/
+*.py[cod]

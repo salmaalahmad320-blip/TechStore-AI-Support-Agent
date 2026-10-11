@@ -1,0 +1,20 @@
+Company Name: TechStore
+
+About:
+TechStore is an online store that sells laptops, smartphones, tablets, and accessories.
+
+Products:
+We sell laptops, smartphones, tablets, headphones, keyboards, and smart devices.
+
+Shipping:
+Orders are delivered within 3-5 business days.
+International shipping is available.
+
+Returns:
+Customers can return products within 14 days if the product is unused and in original condition.
+
+Payment:
+We accept credit cards, PayPal, and online payments.
+
+Support:
+Customer support is available Monday to Friday from 9 AM to 6 PM.
